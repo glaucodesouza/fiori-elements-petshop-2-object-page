@@ -74,7 +74,7 @@
                             <Collection>
                                 <Record Type="Common.SortOrderType">
                                     <PropertyValue Property="Property" PropertyPath="Nome"/>
-                                    <PropertyValue Property="Descending" Bool="true"/>
+                                    <PropertyValue Property="Descending" Bool="false"/>
                                 </Record>
                             </Collection>
                         </PropertyValue>
